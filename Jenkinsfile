@@ -8,7 +8,7 @@ pipeline
         {
             steps 
             {
-                echo 'Build App sound'
+                echo 'Build App'
             }
         }
 
@@ -16,7 +16,7 @@ pipeline
         {
             steps 
             {
-                echo 'Test App sound'
+                echo 'Test App'
             }
         }
 
