@@ -8,7 +8,7 @@ pipeline
         {
             steps 
             {
-                echo 'Build so'
+                echo 'Build sound'
             }
         }
 
